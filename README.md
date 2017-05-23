@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: This Person
 
-I like to:
+I like to: Change things 
 
-I'm learning:
+I'm learning: Really badly
 
 ```
 
